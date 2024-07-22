@@ -12,7 +12,9 @@ Update Data: Modify existing records in the SQLite database.</br>
 Retrieve Data: Query and fetch records from the SQLite database.</br>
 
 # Set up
-Clone the repository 
+Clone the repository</br>
+```
 run pod install
+```
 
 
